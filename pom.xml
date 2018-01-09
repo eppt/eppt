@@ -5,7 +5,7 @@
 
 	<groupId>com.github.eppt</groupId>
 	<artifactId>eppt</artifactId>
-	<version>0.0.2</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>Eppt Core Library</name>
