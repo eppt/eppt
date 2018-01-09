@@ -1,4 +1,4 @@
-package com.pajakku.eppt;
+package com.github.eppt;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

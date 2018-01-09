@@ -1,4 +1,4 @@
-package com.pajakku.eppt.annotation;
+package com.github.eppt.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

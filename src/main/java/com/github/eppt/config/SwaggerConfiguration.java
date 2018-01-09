@@ -1,4 +1,4 @@
-package com.pajakku.eppt.config;
+package com.github.eppt.config;
 
 import org.apache.maven.model.Model;
 import org.apache.maven.model.io.xpp3.MavenXpp3Reader;
@@ -95,10 +95,10 @@ public class SwaggerConfiguration {
         return new ApiInfoBuilder()
                 .title(model.getName())
                 .description(model.getDescription())
-                .termsOfServiceUrl("https://www.pajakku.com/tos")
+                .termsOfServiceUrl("https://www.github.com/tos")
                 .contact(new Contact("Asep Rojali", "http://www.aseprojali.id", "aseprojali@gmail.com"))
                 .license("license")
-                .licenseUrl("https://www.pajakku.com")
+                .licenseUrl("https://www.github.com")
                 .version(model.getVersion()).build();
     }
 
